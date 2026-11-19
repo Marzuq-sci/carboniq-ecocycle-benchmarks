@@ -1,0 +1,7 @@
+corridor_id,corridor_name,aayalolo_trunk,hour_gmt,round_trip_km,diesel_trotro_kg_co2_km,total_demand_pax_hr,aayalolo_qbs_supply_pax_hr,residual_demand_pax_hr
+C01,Amasaman_Accra_Central,1,7,22,0.89,212,62,150
+C01,Amasaman_Accra_Central,1,17,22,0.89,181,90,91
+C02,Adentan_Accra_Central,1,7,18,0.86,257,75,182
+C02,Adentan_Accra_Central,1,17,18,0.86,173,88,85
+C03,Kasoa_Accra_Central,1,7,24,0.92,259,119,140
+C03,Kasoa_Accra_Central,1,17,24,0.92,144,76,68

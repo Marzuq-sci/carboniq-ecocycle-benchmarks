@@ -1,0 +1,9 @@
+vehicle_id,vehicle_type,start_node,dest_hub_node,max_payload_kg,passenger_cap,battery_or_fuel_range_km,emission_kg_co2_km
+V000,aboboyaa,0,5,220,1,89,0.21
+V001,aboboyaa,0,5,220,1,84,0.21
+V002,trotro,1,5,0,15,218,0.85
+V003,trotro,0,5,0,15,207,0.85
+V004,aayalolo_qbs,1,5,0,65,256,1.15
+V005,aayalolo_qbs,2,5,0,65,277,1.15
+V006,smarttransyt_ev,1,5,0,22,153,0.0
+V007,smarttransyt_ev,2,5,0,22,170,0.0

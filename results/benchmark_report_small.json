@@ -1,0 +1,31 @@
+{
+  "scale": "small",
+  "data_dir": "data/starter_small",
+  "seed": 42,
+  "problems": {
+    "P5": {
+      "gps_baseline": 50.3816,
+      "clean_air_dijkstra": 13.878,
+      "emission_reduction_pct": 72.45,
+      "hungarian": {
+        "n_pairs": 2,
+        "hungarian_cost": 12.1135,
+        "greedy_cost": 12.1135,
+        "improvement_pct": 0.0,
+        "runtime_s": 0.0015973320000171043
+      }
+    },
+    "P1": {
+      "name": "P1_routing_6n_8e_2v",
+      "N_vars": 16,
+      "analytical_single_veh_lambda1_crit": 6.939,
+      "exact_gs_energy": 45.7561
+    }
+  },
+  "mrv_ledger_sample": {
+    "transit_kg_co2e": 5.5888,
+    "waste_kg_co2e": 31.2,
+    "energy_kg_co2e": 0.518,
+    "total_cc_kg_co2e": 37.3068
+  }
+}

@@ -1,0 +1,6 @@
+cluster_id,cluster_name,rated_power_kw,default_hour_gmt
+CL00,smart_washer_cluster,40,20
+CL01,borehole_water_pumps,5,20
+CL02,cold_storage_defrost,13,20
+CL03,smarttransyt_ev_depot,48,20
+CL04,electric_water_heater,19,20

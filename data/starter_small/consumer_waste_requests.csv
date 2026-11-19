@@ -1,0 +1,5 @@
+req_id,node_id,neighborhood,stream_type,material,est_weight_kg,est_price_ghs_kg,window_start_hr
+REQ000,1,Okponglo,inorganic,metal,33,4.68,9
+REQ001,2,Legon,inorganic,PET,17,2.23,7
+REQ002,3,Haatso,inorganic,metal,29,6.61,9
+REQ003,4,Kwabenya,inorganic,e_waste,9,10.59,9

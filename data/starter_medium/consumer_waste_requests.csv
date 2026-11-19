@@ -1,0 +1,17 @@
+req_id,node_id,neighborhood,stream_type,material,est_weight_kg,est_price_ghs_kg,window_start_hr
+REQ000,1,Okponglo,inorganic,e_waste,3,11.46,8
+REQ001,2,Legon,inorganic,PET,22,2.16,8
+REQ002,3,Haatso,organic,food_waste,24,0.0,14
+REQ003,4,Kwabenya,organic,food_waste,16,0.0,15
+REQ004,5,Achimota,inorganic,e_waste,12,10.43,13
+REQ005,6,Adentan,inorganic,metal,16,7.35,7
+REQ006,7,Atomic,inorganic,PET,17,3.17,7
+REQ007,8,East_Legon,organic,food_waste,15,0.0,10
+REQ008,9,Spintex,inorganic,metal,23,7.28,8
+REQ009,10,Osu,inorganic,metal,24,4.93,10
+REQ010,11,Circle,inorganic,e_waste,8,11.64,14
+REQ011,12,Kaneshie,inorganic,PET,12,3.24,7
+REQ012,13,Nima,organic,food_waste,33,0.0,10
+REQ013,4,Kwabenya,organic,food_waste,23,0.0,9
+REQ014,9,Spintex,organic,food_waste,26,0.0,7
+REQ015,4,Kwabenya,inorganic,PET,22,3.09,15

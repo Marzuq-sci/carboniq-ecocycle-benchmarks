@@ -1,0 +1,13 @@
+cluster_id,cluster_name,rated_power_kw,default_hour_gmt
+CL00,smart_washer_00,23,20
+CL01,ev_charger_01,40,20
+CL02,cold_storage_02,18,17
+CL03,water_pump_03,49,23
+CL04,water_heater_04,17,17
+CL05,bsf_dryer_05,11,17
+CL06,smart_washer_06,44,23
+CL07,ev_charger_07,13,20
+CL08,cold_storage_08,14,20
+CL09,water_pump_09,33,20
+CL10,water_heater_10,46,17
+CL11,bsf_dryer_11,15,20

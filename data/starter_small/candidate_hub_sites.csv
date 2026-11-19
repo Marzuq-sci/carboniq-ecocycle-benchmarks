@@ -1,0 +1,15 @@
+site_id,neighborhood,install_cost_usd,households_covered,daily_capacity_tonnes
+S000,Madina,92000,810,11.1
+S001,Okponglo,175000,1650,16.2
+S002,Legon,174000,1320,16.4
+S003,Haatso,180000,1380,19.1
+S004,Kwabenya,116500,1000,10.9
+S005,Achimota,134000,1110,10.9
+S006,Adentan,120500,1220,12.2
+S007,Atomic,142000,1350,14.4
+S008,East_Legon,137500,1060,18.5
+S009,Spintex,135000,1240,16.2
+S010,Osu,125500,1220,13.1
+S011,Circle,151000,1430,16.4
+S012,Kaneshie,99000,700,10.6
+S013,Nima,118500,960,14.5

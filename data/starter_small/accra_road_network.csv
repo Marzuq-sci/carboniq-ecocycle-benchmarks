@@ -1,0 +1,9 @@
+edge_id,from_node,to_node,from_name,to_name,road_class,distance_km,speed_limit_kmh,pred_travel_hr,idling_index,pm25_ug_m3,nox_ug_m3
+E000,0,1,Madina,Okponglo,trunk_roadside,2.4,50.0,0.1359,2.831,58.0,65.28
+E001,1,2,Okponglo,Legon,trunk_roadside,2.2,50.0,0.1373,3.121,65.03,64.23
+E002,2,5,Legon,Achimota,trunk_roadside,3.6,50.0,0.1804,2.506,56.18,71.04
+E003,0,3,Madina,Haatso,residential_bypass,2.8,45.0,0.079,1.269,14.37,15.78
+E004,3,4,Haatso,Kwabenya,residential_bypass,3.1,45.0,0.0756,1.097,16.95,21.68
+E005,4,5,Kwabenya,Achimota,residential_bypass,3.5,45.0,0.0853,1.097,14.35,16.82
+E006,1,3,Okponglo,Haatso,commercial_mixed,2.0,40.0,0.0934,1.867,40.13,48.26
+E007,3,2,Haatso,Legon,commercial_mixed,2.3,40.0,0.1167,2.029,30.31,40.56
